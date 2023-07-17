@@ -1,0 +1,11 @@
+jenis_kelamin,umur,gaji,status,transportasi
+pria,20,8000000,single,1
+pria,35,14000000,single,0
+wanita,26,10000000,single,0
+wanita,27,12000000,menikah,1
+pria,21,9000000,single,1
+pria,22,11000000,single,1
+wanita,32,15000000,menikah,0
+wanita,26,8000000,menikah,0
+pria,25,9000000,single,0
+perempuan,20,10000000,single,1
